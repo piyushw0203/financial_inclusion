@@ -100,7 +100,7 @@ form.addEventListener("submit", addTransaction);
 // OpenAI API integration
 sendPromptButton.addEventListener("click", async () => {
   const prompt = promptInput.value;
-  const apiKey = "sk-proj-ibhTrmVMcOYL8ThC4Ib3T3BlbkFJZ4bwAIc23jqw2HFfEp4q"; // Replace with your actual OpenAI API key
+  const apiKey = " "; // Replace with your actual OpenAI API key
   
   const response = await fetch("https://api.openai.com/v1/engines/davinci-codex/completions", {
     method: "POST",
