@@ -1,0 +1,39 @@
+{
+  "metadata": {
+    "soundFile": "E:\\College\\Hackathons\\BlackRock\\r3f\\backend\\audios\\message_0.wav",
+    "duration": 5.01
+  },
+  "mouthCues": [
+    { "start": 0.00, "end": 0.15, "value": "X" },
+    { "start": 0.15, "end": 0.23, "value": "B" },
+    { "start": 0.23, "end": 0.31, "value": "A" },
+    { "start": 0.31, "end": 0.67, "value": "B" },
+    { "start": 0.67, "end": 0.75, "value": "A" },
+    { "start": 0.75, "end": 0.96, "value": "B" },
+    { "start": 0.96, "end": 1.04, "value": "A" },
+    { "start": 1.04, "end": 1.10, "value": "B" },
+    { "start": 1.10, "end": 1.15, "value": "G" },
+    { "start": 1.15, "end": 1.43, "value": "B" },
+    { "start": 1.43, "end": 1.50, "value": "C" },
+    { "start": 1.50, "end": 1.85, "value": "B" },
+    { "start": 1.85, "end": 2.20, "value": "F" },
+    { "start": 2.20, "end": 2.27, "value": "G" },
+    { "start": 2.27, "end": 2.48, "value": "B" },
+    { "start": 2.48, "end": 2.55, "value": "E" },
+    { "start": 2.55, "end": 2.62, "value": "B" },
+    { "start": 2.62, "end": 2.76, "value": "C" },
+    { "start": 2.76, "end": 2.97, "value": "B" },
+    { "start": 2.97, "end": 3.04, "value": "C" },
+    { "start": 3.04, "end": 3.11, "value": "B" },
+    { "start": 3.11, "end": 3.18, "value": "C" },
+    { "start": 3.18, "end": 3.60, "value": "B" },
+    { "start": 3.60, "end": 3.67, "value": "G" },
+    { "start": 3.67, "end": 3.74, "value": "E" },
+    { "start": 3.74, "end": 3.88, "value": "F" },
+    { "start": 3.88, "end": 4.16, "value": "B" },
+    { "start": 4.16, "end": 4.30, "value": "E" },
+    { "start": 4.30, "end": 4.37, "value": "G" },
+    { "start": 4.37, "end": 4.79, "value": "B" },
+    { "start": 4.79, "end": 5.01, "value": "X" }
+  ]
+}
